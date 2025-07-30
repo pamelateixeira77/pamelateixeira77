@@ -74,7 +74,7 @@ export default function Header() {
           </div>
 
           <div className="text-sm text-white/95 mb-2 bg-white/20 inline-block px-4 py-1.5 rounded-full backdrop-blur-md border border-white/30">
-            📍 São Bernardo do Campo - SP • 1,8km de você
+            📍 Santo André - SP • 1,8km de você
           </div>
 
           <div className="flex items-center justify-center gap-1 bg-white/20 inline-block px-4 py-1.5 rounded-full backdrop-blur-md border border-white/30">
@@ -136,7 +136,7 @@ export default function Header() {
               {/* Endereço */}
               <div>
                 <h3 className="font-semibold text-gray-800 mb-2 flex items-center gap-2">📍 Endereço</h3>
-                <p className="text-sm text-gray-600">São Bernardo do Campo - SP</p>
+                <p className="text-sm text-gray-600">Santo André - SP</p>
               </div>
 
               {/* Áreas de Entrega */}
@@ -144,7 +144,7 @@ export default function Header() {
                 <h3 className="font-semibold text-gray-800 mb-2 flex items-center gap-2">🚚 Áreas de Entrega</h3>
                 <div className="bg-green-50 border border-green-200 rounded-lg p-3">
                   <div className="flex items-center justify-between">
-                    <span className="text-sm font-medium text-gray-800">São Bernardo do Campo - SP</span>
+                    <span className="text-sm font-medium text-gray-800">Santo André - SP</span>
                     <span className="bg-green-500 text-white px-2 py-1 rounded text-xs font-bold">GRÁTIS</span>
                   </div>
                   <p className="text-xs text-green-700 mt-1">Entrega gratuita para pedidos acima de R$ 25,00</p>
