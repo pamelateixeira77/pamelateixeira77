@@ -8,7 +8,7 @@ import { MapPin, Truck, Clock, X } from "lucide-react"
 
 export default function LocationPopup() {
   const [isOpen, setIsOpen] = useState(false)
-  const [userCity, setUserCity] = useState("São Bernardo do Campo")
+  const [userCity, setUserCity] = useState("Santo André")
 
   useEffect(() => {
     // Simula detecção de localização ou pode usar geolocalização real
