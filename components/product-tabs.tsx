@@ -28,7 +28,7 @@ export default function ProductTabs({ activeTab, setActiveTab }: ProductTabsProp
       </div>
 
       <div className="mt-4 bg-green-100 border border-green-300 rounded-lg p-3">
-        <p className="text-green-800 text-center font-medium">Entrega Grátis para São Bernardo do Campo!</p>
+        <p className="text-green-800 text-center font-medium">Entrega Grátis para São Paulo</p>
       </div>
 
       {activeTab === "promocao" && (
