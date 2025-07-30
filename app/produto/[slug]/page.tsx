@@ -349,7 +349,7 @@ export default function ProductPage({ params }: ProductPageProps) {
 
     if (params.slug === "bolo-personalizado-morango" || params.slug === "bolo-diet-personalizado-morango") {
       // Bolo + Morango do Amor (normal e zero)
-      window.open("https://go.paradisepagbr.com/vyuygfa", "_blank")
+      window.open("https://go.paradisepagbr.com/vyuyg", "_blank")
       setShowDeliveryModal(false)
       return
     }
