@@ -12,7 +12,7 @@ interface ProductListProps {
 const promocaoProducts = [
   {
     id: 1,
-    name: "Morango do Amor + Brigadeiro Tradicional",
+    name: "DOIS Morangos do Amor + Brigadeiro Tradicional",
     complements: "Combo perfeito para compartilhar 💕",
     originalPrice: "R$ 39,90",
     currentPrice: "R$ 24,90",
